@@ -1,0 +1,22 @@
+.site-header{
+    background-color: #1bbcff;
+    color: #e0ffff;
+    height: 100vh;
+    font-family: monospace;
+
+}
+.dp{
+    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+    box-shadow: #0d7bc5 2px 5px 5px;
+}
+body{
+    margin: 0;
+}
+
+.intro{
+    margin: 0px;
+    text-align: center;
+    padding-top: 15%;
+}
